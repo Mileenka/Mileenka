@@ -1,49 +1,38 @@
-# (project name)
+# 🌟Milena's Bio🌟
 
-<!-- describe your project -->
+## Welcome to my profile [GitHub](README.md)
 
-## Getting Started
+![hyf](./img/mileenka.png)
 
-<!-- a guide to using this repository -->
+## 👱‍♀️💼About me
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+Hi there, I am **[Milena]**, I am very positive person enjoying life every day.
+I am an ambitious person. I strive for my intended goals and never give up even
+when there are many obstacles along the way. For me, the path to this goal is
+more important than its final achievement. So I start my adventure with
+programming with a lot of motivation, which makes my next dream come true
 
-## Code Quality Checks
+## 🚀Experience
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+💡I am currently gaining experience with 🔥[HYF](https://hackyourfuture.be/)🔥
+which helps me grow as a **Web developer**.
 
-## Continuous Integration (CI)
+## 🎧Hobbies
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+❤️I love:
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+- **coding**
+- **psychology**
+- **reading**
+- **music**
+- **singing**
 
-## Repo Setup
+## 💬Contact
 
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- In _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+![slack](./img/slack.png) If you want to contact me, write to me at
+**[Slack](https://mileenka.slack.com)**.
+
+## 💻Projects
+
+![slack](./img/github.ico) My projects can be seen on my
+[GitHub](https://github.com/Mileenka)
