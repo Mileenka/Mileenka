@@ -8,7 +8,7 @@ Hi there, I am **[Milena]**, I am very positive person enjoying life every day.
 I am an ambitious person. I strive for my intended goals and never give up even
 when there are many obstacles along the way. For me, the path to this goal is
 more important than its final achievement. So I start my adventure with
-programming with a lot of motivation, which makes my next dream come true
+programming with a lot of motivation, which makes my next dream come true.
 
 ## 🚀Experience
 
