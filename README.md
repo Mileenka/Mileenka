@@ -2,8 +2,6 @@
 
 ## Welcome to my profile [GitHub](README.md)
 
-![hyf](./img/mileenka.png)
-
 ## 👱‍♀️💼About me
 
 Hi there, I am **[Milena]**, I am very positive person enjoying life every day.
