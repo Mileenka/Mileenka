@@ -1,36 +1,24 @@
-# 🌟Milena's Bio🌟
+# 🚀 Welcome to Milena's Coding Odyssey 🚀
 
-## Welcome to my profile [GitHub](README.md)
+## 👋 About Me
+Hello there! I'm Milena, and I'm on a mission to conquer the world of web development. My journey is fueled by an insatiable curiosity and a passion for turning ideas into digital reality. I thrive on challenges and relish every moment of my coding adventure.
 
-## 👱‍♀️💼About me
+## 🛠️ Tech Stack
+My coding arsenal includes HTML, CSS, JavaScript (ES6+), TypeScript, and a knack for creating stunning web experiences. I'm always on the lookout for the latest tech trends to stay at the forefront of innovation.
 
-Hi there, I am **[Milena]**, I am very positive person enjoying life every day.
-I am an ambitious person. I strive for my intended goals and never give up even
-when there are many obstacles along the way. For me, the path to this goal is
-more important than its final achievement. So I start my adventure with
-programming with a lot of motivation, which makes my next dream come true.
+## 🎯 Goals
+My goal is simple: to become an exceptional programmer who can build not just websites, but digital wonders that inspire and delight. The path I'm on is as important as the destination, and I'm embracing every twist and turn along the way.
 
-## 🚀Experience
+## 🌎 Global Explorer
+When I'm not immersed in code, you'll find me exploring the diverse cuisines of the world, unraveling the mysteries of human psychology, and enjoying the sweet melodies of music. Life is a journey, and I'm savoring every moment.
 
-💡I am currently gaining experience with 🔥[HYF](https://hackyourfuture.be/)🔥
-which helps me grow as a **Web developer**.
+## 📫 Get in Touch
+Want to chat about coding, share a delicious recipe, or discuss the latest psychological theories? Reach out to me on Slack—I'm always up for a great conversation!
 
-## 🎧Hobbies
+## 💻 Projects
+Explore my coding adventures right here on my GitHub profile. From front-end marvels to back-end wonders, you'll find a treasure trove of creativity and innovation.
 
-❤️I love:
+🌟 Keep scrolling to see some of my projects!
 
-- **coding**
-- **psychology**
-- **reading**
-- **music**
-- **singing**
-
-## 💬Contact
-
-![slack](./img/slack.png) If you want to contact me, write to me at
-**[Slack](https://mileenka.slack.com)**.
-
-## 💻Projects
-
-![slack](./img/github.ico) My projects can be seen on my
-[GitHub](https://github.com/Mileenka)
+## 🌐 Connect with Me
+You can find me on:  ![slack](./img/slack.png) **[Slack](https://mileenka.slack.com)**.
