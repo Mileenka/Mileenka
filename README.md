@@ -11,7 +11,7 @@ moment of my coding adventure.
 
 ## 🛠️ Tech Stack
 
-My coding arsenal includes HTML, CSS, JavaScript (ES6+), TypeScript, Node.js,
+My coding arsenal includes Angular, JavaScript (ES6+), TypeScript, HTML, CSS, Node.js,
 MySQL, MongoDB and a knack for creating stunning web experiences. I'm always on
 the lookout for the latest tech trends to stay at the forefront of innovation.
 
